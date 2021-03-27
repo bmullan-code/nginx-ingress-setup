@@ -61,5 +61,8 @@ NAME               CLASS    HOSTS                     ADDRESS       PORTS   AGE
 ingress2-ingress   <none>   ingress.vinalhaven.info   192.168.2.6   80      7m38s
 ```
 
+Confirm the application can be resolved at http://ingress.vinalhaven.info
+
+![](https://github.com/bmullan-pivotal/nginx-ingress-setup/blob/main/kuard-screenshot.png?raw=true)
 
 
